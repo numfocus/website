@@ -1,0 +1,860 @@
+# kubrick theme pot file.
+# Copyright (C) 2008 WordPress
+# This file is distributed under the same license as the kubrick theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Ten\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/twentyten\n"
+"POT-Creation-Date: 2010-07-14 16:21+0000\n"
+"PO-Revision-Date: 2010-07-30 02:25+0100\n"
+"Last-Translator: WordPress Francophone <traduction_at_wordpress-fr.net>\n"
+"Language-Team: WordPress Francophone <traduction@wordpress-fr.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/amaury/Desktop/SVN/WPtrunk/wp-content/themes/twentyten\n"
+"X-Poedit-SearchPath-1: E:\\wamp\\www\\wordpress-beta\\wp-content\\themes\\twentyten\n"
+
+#: 404.php:16
+#: loop.php:33
+msgid "Not Found"
+msgstr "Rien de trouvé"
+
+#: 404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Toutes nos excuses, mais la page que vous demandez est introuvable. Essayez de lancer une recherche."
+
+#: archive.php:33
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Archives quotidiennes&nbsp;: <span>%s</span>"
+
+#: archive.php:35
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Archives mensuelles&nbsp;: <span>%s</span>"
+
+#: archive.php:37
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Archives annuelles&nbsp;: <span>%s</span>"
+
+#: archive.php:39
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr "Revenir à %s"
+
+#. translators: %s - title of parent post
+#: attachment.php:20
+#, php-format
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: attachment.php:29
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">Par</span> %2$s"
+
+#: attachment.php:33
+#: functions.php:451
+#, php-format
+msgid "View all posts by %s"
+msgstr "Afficher tous les articles par %s"
+
+#: attachment.php:40
+#, php-format
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Publié le</span> %2$s"
+
+#: attachment.php:50
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "La taille originale est de %s pixels"
+
+#: attachment.php:53
+msgid "Link to full-size image"
+msgstr "Lien vers l&rsquo;image originale"
+
+#: attachment.php:60
+#: attachment.php:107
+#: loop.php:95
+#: loop.php:118
+#: loop.php:160
+#: onecolumn-page.php:27
+#: page.php:32
+#: single.php:53
+msgid "Edit"
+msgstr "Modifier"
+
+#: attachment.php:100
+#: functions.php:241
+#: loop.php:110
+#: loop.php:138
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer la lecture <span class=\"meta-nav\">&rarr;</span>"
+
+#: attachment.php:101
+#: loop.php:139
+#: onecolumn-page.php:26
+#: page.php:31
+#: single.php:31
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archives de l&rsquo;auteur&nbsp;: %s"
+
+#: author.php:37
+#: single.php:40
+#, php-format
+msgid "About %s"
+msgstr "À propos de %s"
+
+#: category.php:16
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archives de catégorie&nbsp;: %s"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Cet article est protégé par un mot de passe. Saisissez le mot de passe pour lire les commentaires."
+
+#: comments.php:35
+#, php-format
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Une réponse à %2$s"
+msgstr[1] "%1$s réponses à %2$s"
+
+#: comments.php:41
+#: comments.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Commentaires plus anciens"
+
+#: comments.php:42
+#: comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Commentaires plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#. #-#-#-#-#  twentyten.pot (Twenty Ten 1.1)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: footer.php:33
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:34
+msgid "Semantic Personal Publishing Platform"
+msgstr "Plate-forme de publication personnelle à la pointe de la sémantique"
+
+#: footer.php:35
+#, php-format
+msgid "Proudly powered by %s."
+msgstr "Fièrement propulsé par %s"
+
+#: functions.php:97
+msgid "Primary Navigation"
+msgstr "Navigation principale"
+
+#. translators: header image description
+#: functions.php:133
+msgid "Berries"
+msgstr "Framboises"
+
+#. translators: header image description
+#: functions.php:139
+msgid "Cherry Blossoms"
+msgstr "Fleurs de cerisier"
+
+#. translators: header image description
+#: functions.php:145
+msgid "Concave"
+msgstr "Mirroir"
+
+#. translators: header image description
+#: functions.php:151
+msgid "Fern"
+msgstr "Fougère"
+
+#. translators: header image description
+#: functions.php:157
+msgid "Forest Floor"
+msgstr "Paysage forestier"
+
+#. translators: header image description
+#: functions.php:163
+msgid "Inkwell"
+msgstr "Encrier"
+
+#. translators: header image description
+#: functions.php:169
+msgid "Path"
+msgstr "Chemin"
+
+#. translators: header image description
+#: functions.php:175
+msgid "Sunset"
+msgstr "Coucher du soleil"
+
+#: functions.php:308
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dit&nbsp;:</span>"
+
+#: functions.php:311
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+#. translators: 1: date, 2: time
+#: functions.php:318
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: functions.php:318
+#: functions.php:335
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: functions.php:335
+msgid "Pingback:"
+msgstr "Ping&nbsp;:"
+
+#: functions.php:354
+msgid "Primary Widget Area"
+msgstr "Zone principale de widgets"
+
+#: functions.php:356
+msgid "The primary widget area"
+msgstr "La zone principale de widgets"
+
+#: functions.php:365
+msgid "Secondary Widget Area"
+msgstr "Zone secondaire de widgets"
+
+#: functions.php:367
+msgid "The secondary widget area"
+msgstr "La zone secondaire de widgets"
+
+#: functions.php:376
+msgid "First Footer Widget Area"
+msgstr "1ère zone de pied de page"
+
+#: functions.php:378
+msgid "The first footer widget area"
+msgstr "La première zone de widgets pour le pied de page"
+
+#: functions.php:387
+msgid "Second Footer Widget Area"
+msgstr "2ème zone de pied de page"
+
+#: functions.php:389
+msgid "The second footer widget area"
+msgstr "La deuxième zone de widgets pour le pied de page"
+
+#: functions.php:398
+msgid "Third Footer Widget Area"
+msgstr "3ème zone de pied de page"
+
+#: functions.php:400
+msgid "The third footer widget area"
+msgstr "La troisième zone de widgets pour le pied de page"
+
+#: functions.php:409
+msgid "Fourth Footer Widget Area"
+msgstr "4ème zone de pied de page"
+
+#: functions.php:411
+msgid "The fourth footer widget area"
+msgstr "La quatrième zone de widgets pour le pied de page"
+
+#: functions.php:442
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "<span class=\"%1$s\">Publié le</span> %2$s <span class=\"meta-sep\">par</span> %3$s"
+
+#: functions.php:468
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Cette entrée a été publiée dans %1$s, avec comme mot(s)-clef(s) %2$s. Vous pouvez la mettre en favoris avec <a href=\"%3$s\" title=\"Permalien pour %4$s\" rel=\"bookmark\">ce permalien</a>."
+
+#: functions.php:470
+#, php-format
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Cette entrée a été publiée dans %1$s. Vous pouvez la mettre en favoris avec <a href=\"%3$s\" title=\"Permalien pour %4$s\" rel=\"bookmark\">ce permalien</a>."
+
+#: functions.php:472
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Vous pouvez la mettre en favoris avec <a href=\"%3$s\" title=\"Permalien pour %4$s\" rel=\"bookmark\">ce permalien</a>."
+
+#: header.php:33
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:83
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: loop.php:25
+#: loop.php:173
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articles plus anciens"
+
+#: loop.php:26
+#: loop.php:174
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop.php:35
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Toutes nos excuses, mais aucun résultat n&rsquo;a été trouvé dans l&rsquo;archive demandée. Peut-être qu&rsquo;une recherche vous permettra de trouver un article similaire."
+
+#: loop.php:60
+#: loop.php:92
+msgctxt "gallery category slug"
+msgid "gallery"
+msgstr "galerie"
+
+#: loop.php:62
+#: loop.php:83
+#: loop.php:126
+#, php-format
+msgid "Permalink to %s"
+msgstr "Lien permanent vers %s"
+
+#: loop.php:82
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr "Cette galerie contient <a %1$s>%2$s photos</a>."
+
+#: loop.php:92
+msgid "View posts in the Gallery category"
+msgstr "Afficher les articles de la catégorie Galerie"
+
+#: loop.php:92
+msgid "More Galleries"
+msgstr "Toutes les galeries"
+
+#: loop.php:94
+#: loop.php:117
+#: loop.php:159
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: loop.php:94
+#: loop.php:117
+#: loop.php:159
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: loop.php:94
+#: loop.php:117
+#: loop.php:159
+msgid "% Comments"
+msgstr "% commentaires"
+
+# C'est le slug pour la catégorie "Apartés", donc pas d'accent.
+#: loop.php:101
+msgctxt "asides category slug"
+msgid "asides"
+msgstr "apartes"
+
+#: loop.php:146
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Publié dans</span> %2$s"
+
+#: loop.php:155
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Marqué avec</span> %2$s"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche&nbsp;: %s"
+
+#: search.php:26
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: search.php:28
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d&rsquo;autres mots-clefs."
+
+#: sidebar.php:27
+msgid "Archives"
+msgstr "Archives"
+
+#: sidebar.php:34
+msgid "Meta"
+msgstr "Méta"
+
+#: single.php:18
+#: single.php:58
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single.php:19
+#: single.php:59
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:44
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Voir tous les articles de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: tag.php:16
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archives par mot-clef&nbsp;: %s"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Ten"
+msgstr "Twenty Ten"
+
+#. Description of the plugin/theme
+msgid "The 2010 theme for WordPress is stylish, customizable, simple, and readable -- make it yours with a custom menu, header image, and background. Twenty Ten supports six widgetized areas (two in the sidebar, four in the footer) and featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the \"Asides\" and \"Gallery\" categories, and has an optional one-column page template that removes the sidebar."
+msgstr "Le thème de WordPress pour 2010. Il est beau, personnalisable, simple et lisible. Appropriez-le-vous grâce en personnalisant son menu, son image d&rsquo;en-tête et son image de fond. Twenty Ten dispose de six zones de widgets (deux dans la barre latérale, quatre en pied de page), et peut exploiter vos images de Une (minitatures pour galeries, et image d&rsquo;en-tête personnalisé pour les articles et pages). Il intègre une feuille de style pour l&rsquo;impression et pour l&rsquo;éditeur visuel, un style spécial pour les articles des catégories &laquo;&nbsp;Apartés&nbsp;&raquo; et &laquo;&nbsp;Galerie&nbsp;&raquo;, et peut fonctionner sous la forme d&rsquo;une colonne seule, en enlevant la barre latérale."
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "L&rsquo;équipe WordPress"
+
+#. Tags of the plugin/theme
+msgid "black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style"
+msgstr "black, blue, white, two-columns, fixed-width, custom-header, custom-background, theme-options, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style"
+
+#~ msgid "Search results for %s"
+#~ msgstr "Résultats de recherche pour &laquo;&nbsp;%s&nbsp;&raquo;"
+#~ msgid "The 2010 default theme for WordPress."
+#~ msgstr "Le thème par défaut de WordPress en 2010"
+#~ msgid ""
+#~ "<span class=\"meta-prep meta-prep-author\"> By </span> <span class="
+#~ "\"author vcard\"><a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\">%3$s</"
+#~ "a></span>"
+#~ msgstr ""
+#~ "<span class=\"meta-prep meta-prep-author\"> Par </span> <span class="
+#~ "\"author vcard\"><a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\">%3$s</"
+#~ "a></span>"
+#~ msgid ""
+#~ "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span "
+#~ "class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</"
+#~ "abbr></span>"
+#~ msgstr ""
+#~ "<span class=\"meta-prep meta-prep-entry-date\">Publié </span> <span class="
+#~ "\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span>"
+#~ msgid ""
+#~ " at <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</"
+#~ "a>"
+#~ msgstr ""
+#~ " à <a href=\"%1$s\" title=\"Lien vers l'image originale\">%2$s &times; %3"
+#~ "$s</a>"
+#~ msgid ""
+#~ "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post "
+#~ "a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s"
+#~ "\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</"
+#~ "a>."
+#~ msgstr ""
+#~ "<a class=\"comment-link\" href=\"#respond\" title=\"Laisser un commentaire"
+#~ "\">Laisser un commentaire</a> ou faites un rétrolien&nbsp;: <a class="
+#~ "\"trackback-link\" href=\"%s\" title=\"Adresse de rétrolien pour cette "
+#~ "entrée\" rel=\"trackback\">adresse de rétrolien</a>."
+#~ msgid ""
+#~ "Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+#~ "link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+#~ "\">Trackback URL</a>."
+#~ msgstr ""
+#~ "Les commentaires sont fermés, mais vous pouvez faire un rétrolien&nbsp;: "
+#~ "<a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your "
+#~ "post\" rel=\"trackback\">adresse de rétrolien</a>."
+#~ msgid ""
+#~ "Trackbacks are closed, but you can <a class=\"comment-link\" href="
+#~ "\"#respond\" title=\"Post a comment\">post a comment</a>."
+#~ msgstr ""
+#~ "Les rétroliens ne sont pas autorisés, mais vous pouvez <a class=\"comment-"
+#~ "link\" href=\"#respond\" title=\"Laisser un commentaire\">laisser un "
+#~ "commentaire."
+#~ msgid "Both comments and trackbacks are currently closed."
+#~ msgstr "Les commentaires et les pings sont pour le moment fermés."
+#~ msgid "Author Archives: <span class=\"vcard\">%s</span>"
+#~ msgstr "Archive de l&rsquo;auteur&nbsp;: <span class=\"vcard\">%s</span>"
+#~ msgid "&larr; Older Comments"
+#~ msgstr "&larr; Commentaires plus anciens"
+#~ msgid "Newer Comments &rarr;"
+#~ msgstr "Commentaires plus récents &rarr;"
+#~ msgid ""
+#~ "<span class=\"meta-prep meta-prep-author\">Posted on </span><a href=\"%1$s"
+#~ "\" title=\"%2$s\" rel=\"bookmark\"><span class=\"entry-date\">%3$s</"
+#~ "span></a> <span class=\"meta-sep\"> by </span> <span class=\"author vcard"
+#~ "\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\">%6$s</a></span>"
+#~ msgstr ""
+#~ "<span class=\"meta-prep meta-prep-author\">Publié dans </span><a href=\"%1"
+#~ "$s\" title=\"%2$s\" rel=\"bookmark\"><span class=\"entry-date\">%3$s</"
+#~ "span></a> <span class=\"meta-sep\"> par </span> <span class=\"author vcard"
+#~ "\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\">%6$s</a></span>"
+#~ msgid "Posted in "
+#~ msgstr "Publié dans "
+#~ msgid "Tagged "
+#~ msgstr "Marqué "
+#~ msgid "Posted on "
+#~ msgstr "Publié dans"
+#~ msgid " by "
+#~ msgstr " par"
+#~ msgid "About "
+#~ msgstr "À propos"
+#~ msgid "View all posts by "
+#~ msgstr "Voir tous les articles dans"
+#~ msgid "View all posts by %s &rarr;"
+#~ msgstr "Afficher tous les articles de %s &rarr;"
+#~ msgid "No Responses to %s"
+#~ msgstr "Aucun réponse à %s"
+#~ msgid "%% Responses to %s"
+#~ msgstr "%% réponses à %s"
+#~ msgid "Proudly powered by <span id=\"generator-link\">%s</span>."
+#~ msgstr "Fièrement propulsé par <span id=\"generator-link\">%s</span>."
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+#~ msgid "Continue&nbsp;reading&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr ""
+#~ "Continuer&nbsp;la&nbsp;lecture&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+#~ msgid "edit"
+#~ msgstr "modifier"
+#~ msgid "Also posted in %s"
+#~ msgstr "Egalement publié dans %s"
+#~ msgid "Also tagged %s"
+#~ msgstr "Egalement marqué avec %s"
+#~ msgid "View all posts in %s"
+#~ msgstr "Voir tous les articles dans %s"
+#~ msgid "Search"
+#~ msgstr "Recherche"
+#~ msgid "Posted by "
+#~ msgstr "Publié par"
+#~ msgid " on "
+#~ msgstr " dans"
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "Erreur 404 - Aucun fichier trouvé"
+#~ msgid "Archive for the &#8216;%s&#8217; Category"
+#~ msgstr "Archive pour la catégorie &#8216;%s&#8217;"
+#~ msgid "Posts Tagged &#8216;%s&#8217;"
+#~ msgstr "Articles avec le tag &#8216;%s&#8217;"
+#~ msgid "Archive for %s|Daily archive page"
+#~ msgstr "Archive pour le %s"
+#~ msgid "F jS, Y"
+#~ msgstr "j F Y"
+#~ msgid "Archive for %s|Monthly archive page"
+#~ msgstr "Archive pour %s"
+#~ msgid "F, Y"
+#~ msgstr "F Y"
+#~ msgid "Archive for %s|Yearly archive page"
+#~ msgstr "Archive pour %s"
+#~ msgid "Y"
+#~ msgstr "Y"
+#~ msgid "l, F jS, Y"
+#~ msgstr "l j F Y"
+#~ msgid "Tags:"
+#~ msgstr "Tags&nbsp;:"
+#~ msgid "No Comments &#187;"
+#~ msgstr "Aucun commentaire &#187;"
+#~ msgid "1 Comment &#187;"
+#~ msgstr "1 commentaire &#187;"
+#~ msgid "% Comments &#187;"
+#~ msgstr "% commentaires &#187;"
+#~ msgid "Comments Closed"
+#~ msgstr "Commentaires fermés"
+#~ msgid "Sorry, but there aren't any posts in the %s category yet."
+#~ msgstr "Désolé, mais il n'y a pas encore d'article dans la catégorie %s."
+#~ msgid "Sorry, but there aren't any posts with this date."
+#~ msgstr "Désolé, aucun article ne correspond à cette date."
+#~ msgid "Sorry, but there aren't any posts by %s yet."
+#~ msgstr "Désolé, il n'y a pas encore d'article par %s."
+#~ msgid "No posts found."
+#~ msgstr "Aucun article trouvé."
+#~ msgid "Archives by Month:"
+#~ msgstr "Archives par mois&nbsp;:"
+#~ msgid "Archives by Subject:"
+#~ msgstr "Archives par sujets&nbsp;:"
+#~ msgid "%1$s - Comments on %2$s"
+#~ msgstr "%1$s - Commentaires sur %2$s"
+#~ msgid ""
+#~ "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+#~ "this post."
+#~ msgstr ""
+#~ "Flux <abbr title=\"Really Simple Syndication\">RSS</abbr>pour les "
+#~ "commentaires de cet article."
+#~ msgid ""
+#~ "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack "
+#~ "this entry is: <em>%s</em>"
+#~ msgstr ""
+#~ "L'<abbr title=\"Universal Resource Locator\">URL</abbr> pour faire un "
+#~ "rétrolien vers cette entrée est&nbsp;: <em>%s</em>"
+#~ msgid "Trackback"
+#~ msgstr "Rétrolien"
+#~ msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+#~ msgstr "par %1$s &#8212; %2$s à <a href=\"#comment-%3$s\">%4$s</a>"
+#~ msgid "No comments yet."
+#~ msgstr "Aucune commentaire pour le moment."
+#~ msgid ""
+#~ "Line and paragraph breaks automatic, e-mail address never displayed, "
+#~ "<acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: "
+#~ "<code>%s</code>"
+#~ msgstr ""
+#~ "Les retours à la ligne et les paragraphes sont gérés automatiquement, les "
+#~ "adresses courriel ne sont jamais affichées, quelques balises <acronym "
+#~ "title=\"Hypertext Markup Language\">HTML</acronym> sont autorisées&nbsp;: "
+#~ "<code>%s</code>"
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out &raquo;</a>"
+#~ msgstr ""
+#~ "Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title="
+#~ "\"Se déconnecter de ce compte\">Se déconnecter &raquo;</a>"
+#~ msgid "Name"
+#~ msgstr "Nom"
+#~ msgid "E-mail"
+#~ msgstr "Courriel"
+#~ msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+#~ msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+#~ msgid "Your Comment"
+#~ msgstr "Votre commentaire"
+#~ msgid "Say It!"
+#~ msgstr "Dites-le !"
+#~ msgid "Sorry, the comment form is closed at this time."
+#~ msgstr "Désolé, le formulaire de commentaire est fermé pour le moment."
+#~ msgid "Close this window."
+#~ msgstr "Fermer cette fenêtre."
+#~ msgid "Sorry, no posts matched your criteria."
+#~ msgstr "Désolé, aucun article ne correspond à vos critères."
+#~ msgid ""
+#~ "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art "
+#~ "semantic personal publishing platform\"><strong>WordPress</strong></a>"
+#~ msgstr ""
+#~ "Propulsé par <a href=\"%s\" title=\"Propulsé par WordPress, une plate-"
+#~ "forme de publication personnelle à la pointe de la sémantique"
+#~ "\"><strong>WordPress</strong></a>"
+#~ msgid "to &#8220;%s&#8221;"
+#~ msgstr "à &#8220;%s&#8221;"
+#~ msgid "Leave a Reply"
+#~ msgstr "Laisser un commentaire"
+#~ msgid "Leave a Reply for %s"
+#~ msgstr "Laisser une réponse à %s"
+#~ msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+#~ msgstr ""
+#~ "Vous devez <a href=\"%s\">être connecté</a> pour publier un commentaire."
+#~ msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+#~ msgstr "Connecté en tant que <a href=\"%1$s\">%2$s</a>."
+#~ msgid "Log out of this account"
+#~ msgstr "Se déconnecter de ce compte."
+#~ msgid "Log out &raquo;"
+#~ msgstr "Se déconnecter &raquo;"
+#~ msgid "(required)"
+#~ msgstr "(obligatoire)"
+#~ msgid "Mail (will not be published)"
+#~ msgstr "Courriel (ne sera pas publié)"
+#~ msgid "Website"
+#~ msgstr "Site Web"
+#~ msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+#~ msgstr ""
+#~ "<strong>XHTML&nbsp;:</strong> Vous pouvez utiliser les balises suivantes "
+#~ "&nbsp;: <code>%s</code>"
+#~ msgid "Submit Comment"
+#~ msgstr "Envoyer le commentaire"
+#~ msgid "%1$s and %2$s."
+#~ msgstr "%1$s et %2$s."
+#~ msgid "Entries (RSS)"
+#~ msgstr "Flux RSS des entrées"
+#~ msgid "Comments (RSS)"
+#~ msgstr "Flux RSS des commentaires"
+#~ msgid "%d queries. %s seconds."
+#~ msgstr "%d requêtes. %s secondes."
+#~ msgid "Custom Header"
+#~ msgstr "En-tête personalisée"
+#~ msgid "Close Color Picker"
+#~ msgstr "Fermer le sélecteur de couleur"
+#~ msgid "Options saved."
+#~ msgstr "Options enregistrées."
+#~ msgid "Customize Header"
+#~ msgstr "Personaliser l&rsquo;en-tête"
+#~ msgid "Save"
+#~ msgstr "Enregistrer"
+#~ msgid "Font Color:"
+#~ msgstr "Couleur de police&nbsp;:"
+#~ msgid "Any CSS color (%s or %s or %s)"
+#~ msgstr "N&rsquo;importe quelle couleur CSS (%s ou %s ou %s)"
+#~ msgid "Upper Color:"
+#~ msgstr "Couleur du haut&nbsp;:"
+#~ msgid "HEX only (%s or %s)"
+#~ msgstr "Héxadécimel seul (%s ou %s)"
+#~ msgid "Lower Color:"
+#~ msgstr "Couleur du bas&nbsp;:"
+#~ msgid "Toggle Text"
+#~ msgstr "Inverser le texte"
+#~ msgid "Use Defaults"
+#~ msgstr "Utiliser les couleurs par défaut"
+#~ msgid "Upper Color"
+#~ msgstr "Couleur du haut"
+#~ msgid "Lower Color"
+#~ msgstr "Couleur du bas"
+#~ msgid "Revert"
+#~ msgstr "Annuler"
+#~ msgid "Advanced"
+#~ msgstr "Avancé"
+#~ msgid "Update Header"
+#~ msgstr "Mettre à jour l&rsquo;en-tête"
+#~ msgid "Font Color (CSS):"
+#~ msgstr "Couleur du texte (CSS)&nbsp;:"
+#~ msgid "Upper Color (HEX):"
+#~ msgstr "Couleur du haut (hexa)&nbsp;:"
+#~ msgid "Lower Color (HEX):"
+#~ msgstr "Couleur du bas (hexa)&nbsp;:"
+#~ msgid "Select Default Colors"
+#~ msgstr "Sélectionner les couleurs par défaut"
+#~ msgid "Toggle Text Display"
+#~ msgstr "Afficher/masquer le texte"
+#~ msgid "Read the rest of this entry &raquo;"
+#~ msgstr "Lire la suite de cette entrée &raquo;"
+#~ msgid "Sorry, but you are looking for something that isn&#8217;t here."
+#~ msgstr "Désolé, mais vous cherchez quelque chose qui n&rsquo;est pas ici."
+#~ msgid "Links:"
+#~ msgstr "Liens&nbsp;:"
+#~ msgid "Read the rest of this page &raquo;"
+#~ msgstr "Lire le reste de cette page &raquo;"
+#~ msgid "Edit this entry."
+#~ msgstr "Modifier cette entrée."
+#~ msgid "No posts found. Try a different search?"
+#~ msgstr "Aucun article trouvé. Peut-être avec une autre recherche&nbsp;?"
+#~ msgid "Author"
+#~ msgstr "Auteur"
+#~ msgid "You are currently browsing the archives for the %s category."
+#~ msgstr "Vous parcourez actuellement les archives de la catégorie %s."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for the day %3$s."
+#~ msgstr ""
+#~ "Vous parcourez actuellement les archives du blog <a href=\"%1$s/\">%2$s</"
+#~ "a> pour la journée du %3$s."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for %3$s."
+#~ msgstr ""
+#~ "Vous parcourez actuellement les archives du blog <a href=\"%1$s/\">%2$s</"
+#~ "a> pour %3$s."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for the year %3$s."
+#~ msgstr ""
+#~ "Vous parcourez actuellement les archives du blog <a href=\"%1$s/\">%2$s</"
+#~ "a> pour l'année %3$s."
+#~ msgid ""
+#~ "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for "
+#~ "<strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything "
+#~ "in these search results, you can try one of these links."
+#~ msgstr ""
+#~ "Vous avez lancé une recherche dans les archives du blog <a href=\"%1$s/\">"
+#~ "%2$s</a> avec la requête <strong>&#8216;%3$s&#8217;</strong>. Si les "
+#~ "résultats ne vous conviennent pas, vous pouvez essayer l&rsquo;un de ces "
+#~ "liens."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+#~ msgstr ""
+#~ "Vous parcourez actuellement les archives du blog <a href=\"%1$s/\">%2$s</"
+#~ "a>."
+#~ msgid "This page validates as XHTML 1.0 Transitional"
+#~ msgstr "Cette page est valide en XHTML 1.0 Transitional"
+#~ msgid ""
+#~ "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+#~ msgstr ""
+#~ "<abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr> valide"
+#~ msgid "XHTML Friends Network"
+#~ msgstr "XHTML Friends Network"
+#~ msgid "XFN"
+#~ msgstr "XFN"
+#~ msgid ""
+#~ "Powered by WordPress, state-of-the-art semantic personal publishing "
+#~ "platform."
+#~ msgstr ""
+#~ "Propulsé par WordPress, une plate-forme de publication personnelle à la "
+#~ "pointe de la sémantique."
+#~ msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+#~ msgstr ""
+#~ "Cette entrée a été publiée %1$s le %2$s à %3$s, et rangée dans %4$s."
+#~ msgid ""
+#~ "You can follow any responses to this entry through the <a href='%s'>RSS "
+#~ "2.0</a> feed."
+#~ msgstr ""
+#~ "Vous pouvez suivre les réponses à cette entrée via son flux <a href='%"
+#~ "s'>RSS 2.0</a>."
+#~ msgid ""
+#~ "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel="
+#~ "\"trackback\">trackback</a> from your own site."
+#~ msgstr ""
+#~ "Vous pouvez <a href=\"#respond\">laisser un commentaire</a>, ou <a href="
+#~ "\"%s\" rel=\"trackback\">faire un rétrolien</a> depuis votre site."
+#~ msgid ""
+#~ "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback"
+#~ "\">trackback</a> from your own site."
+#~ msgstr ""
+#~ "Les commentaires sont fermés actuellement, mais vous pouvez toujours <a "
+#~ "href=\"%s\" rel=\"trackback\">faire un rétrolien</a> depuis votre site."
+#~ msgid ""
+#~ "You can skip to the end and leave a response. Pinging is currently not "
+#~ "allowed."
+#~ msgstr ""
+#~ "Vous pouvez sauter à la fin, et laisser directement un commentaire. "
+#~ "L&rsquo;envoi de ping est n&rsquo;est pas pour le moment autorisé."
+#~ msgid "Edit this entry"
+#~ msgstr "Modifier cette entrée"
+#~ msgid ""
+#~ "The default WordPress theme based on the famous <a href=\"http://"
+#~ "binarybonsai.com/kubrick/\">Kubrick</a>."
+#~ msgstr ""
+#~ "Le thème par défaut de WordPress, basé sur le célèbre thème <a href="
+#~ "\"http://binarybonsai.com/kubrick/\">Kubrick</a> (traduction par "
+#~ "WordPress-Francophone: http://www.wordpress-fr.net/ )"
+#~ msgid "Michael Heilemann"
+#~ msgstr "Michael Heilemann"
+#~ msgid "http://binarybonsai.com/"
+#~ msgstr "http://binarybonsai.com/"
+#~ msgid "blue, custom header, fixed width, two columns, widgets"
+#~ msgstr "blue, custom header, fixed width, two columns, widgets"
+#~ msgid "Header Image and Color"
+#~ msgstr "Image et couleurs de l&rsquo;en-tête"
+#~ msgid "%s RSS Feed"
+#~ msgstr "%s flux RSS"
+#~ msgid "%s Atom Feed"
+#~ msgstr "%s flux Atom"
+#~ msgid "This entry was posted on %1$s at %2$s and is filed under %3$s."
+#~ msgstr "Cette entrée a été publiée le %1$s à %2$s, et est rangée dans %3$s."
+#~ msgid "Search for:"
+#~ msgstr "Recherche sur&nbsp;:"
+#~ msgid "Permanent Link: %s"
+#~ msgstr "Lien permanent&nbsp;: %s"
+#~ msgid "Sorry, no attachments matched your criteria."
+#~ msgstr "Désolé, aucun fichier attaché ne correspond à vos critères."
+#~ msgid "<cite>%s</cite> Says:"
+#~ msgstr "<cite>%s</cite> écrit&nbsp;:"
+#~ msgid "&raquo; Blog Archive"
+#~ msgstr "&raquo; Archive du blog"
+
